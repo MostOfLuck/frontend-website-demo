@@ -4,6 +4,10 @@ body {
     color: #2A2626;
 }
 
+body {
+    margin: 30px;
+}
+
 
 :root {
     --white: #fff; 
@@ -54,7 +58,7 @@ h3 {
     width: 100%;
     height: 100%;
     z-index: -1;
-    background-image: url('images for the project/background.png');
+    background-image: url('background.png');
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.9; 
@@ -78,5 +82,8 @@ h3 {
     height: 100%; 
     width: auto; 
 }
+
+
+
 
 
